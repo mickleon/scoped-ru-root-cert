@@ -1,0 +1,114 @@
+# Минимальный набор: то, чем пользуется почти каждый, — банки, страхование, связь, доставка,
+# транспорт, магазины и госсервисы.
+# Часть сайтов уже на корне Минцифры, часть пока на других центрах.
+# Каждый домен разрешает и все его поддомены. Имена взяты из subjectAltName сертификатов:
+# одно неразрешённое имя в сертификате — и он отвергается целиком.
+
+# Сбер
+sberbank.ru
+sbrf.ru
+sberbank.com
+sber.ru
+
+# ВТБ
+vtb.ru
+vtb.com
+
+# Т-Банк
+tbank.ru
+tinkoff.ru
+
+# Альфа-Банк
+alfabank.ru
+alfabank.com
+
+# Газпромбанк
+gazprombank.ru
+
+# Совкомбанк
+sovcombank.ru
+
+# Почта Банк
+pochtabank.ru
+pchtbnk.ru
+
+# Россельхозбанк, ПСБ, МТС Банк, Райффайзенбанк, Банк ДОМ.РФ
+rshb.ru
+psbank.ru
+mtsbank.ru
+raiffeisen.ru
+domrfbank.ru
+
+# НСПК (карты «Мир», СБП)
+nspk.ru
+
+# страхование
+ingos.ru
+reso.ru
+rgs.ru
+sogaz.ru
+alfastrah.ru
+
+# связь
+mts.ru
+megafon.ru
+beeline.ru
+t2.ru
+tele2.ru
+rt.ru
+rostelecom.ru
+
+# почта и доставка
+pochta.ru
+cdek.ru
+boxberry.ru
+
+# объявления и работа
+avito.ru
+hh.ru
+
+# транспорт: РЖД и крупнейшие авиакомпании
+rzd.ru
+aeroflot.ru
+rossiya-airlines.com
+pobeda.aero
+flypobeda.ru
+s7.ru
+uralairlines.ru
+u6.ru
+utair.ru
+
+# магазины и маркетплейсы
+x5.ru
+5ka.ru
+perekrestok.ru
+vprok.ru
+chizhik.club
+magnit.ru
+magnit.com
+lenta.com
+vkusvill.ru
+auchan.ru
+dixy.ru
+okmarket.ru
+evis-pro.ru
+metro-cc.ru
+utkonos.ru
+samokat.ru
+kuper.ru
+ozon.ru
+ozone.ru
+wildberries.ru
+wb.ru
+mvideo.ru
+eldorado.ru
+dns-shop.ru
+
+# госсервисы
+gosuslugi.ru
+nalog.gov.ru
+nalog.ru
+sfr.gov.ru
+rosreestr.gov.ru
+rosreestr.ru
+mos.ru
